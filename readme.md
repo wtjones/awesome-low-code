@@ -7,13 +7,16 @@ A curated list of [low-code development platforms](https://en.wikipedia.org/wiki
 ## Platforms
 
 - [Appian](https://www.appian.com/platform/) - Integrates _business process management_(BPM) and _robotic process automation_(RPA).
+- [IFTTT](https://ifttt.com/home) - A web-based service that allows users to create chains of conditional statements triggered by changes that occur within other web services.
 - [Microsoft Power Automate](https://flow.microsoft.com/en-us/) - Workflow automation with pre-built connectors.
 - [Mendix](https://www.mendix.com/platform/) - A collaboration-focused approach with multiple IDEs for different audiences.
+- [Zapier](https://zapier.com/) - Pass info between your apps with workflows called Zaps. Build processes faster and get more done—no code required.
 
 ## Frameworks
 
 - [Forge](https://github.com/microsoft/Forge) - Generic low-code framework built on a config-driven tree walker. Forge is a great library for developers wanting to build and run their own low-code workflow engine from inside their application.
 - [Open-Lowcode](https://github.com/openlowcode/Open-Lowcode) - Allows organizations develop quickly specific applications, and scale them with a minimum budget.
+- [StarThinker](https://github.com/google/starthinker) -  A simple and intuitive web UI that allows users to create, edit, run, and schedule data pipelines consisting of data transfer and data processing jobs. Advertising focused.
 
 ## Tools
 
