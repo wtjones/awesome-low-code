@@ -24,6 +24,7 @@ A curated list of [low-code development platforms](https://en.wikipedia.org/wiki
 - [Formever](https://formever.org/) - Formever is designed to enable non-programmers to create business systems. The less you know about programming and the more you know about your business the better.
 - [n8h](https://github.com/n8n-io/n8n) - Extendable workflow automation tool.
 - [Node-RED](https://github.com/node-red/node-red) - Low-code programming for event-driven applications.
+- [SmarkForm](https://smarkform.bitifet.net) - Enhance HTML forms with subforms, nested lists, hotkeys and more with no effort…
 
 ## Resources
 
