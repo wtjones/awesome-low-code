@@ -18,6 +18,7 @@ A curated list of [low-code development platforms](https://en.wikipedia.org/wiki
 - [Forge](https://github.com/microsoft/Forge) - Generic low-code framework built on a config-driven tree walker. Forge is a great library for developers wanting to build and run their own low-code workflow engine from inside their application.
 - [Open-Lowcode](https://github.com/openlowcode/Open-Lowcode) - Allows organizations develop quickly specific applications, and scale them with a minimum budget.
 - [StarThinker](https://github.com/google/starthinker) -  A simple and intuitive web UI that allows users to create, edit, run, and schedule data pipelines consisting of data transfer and data processing jobs. Advertising focused.
+- [Oinone](https://github.com/oinone/oinone-pamirs) - AI-native, 100% metadata/model-driven low-code framework where AI and developers collaborate on a single shared metadata model. Built for complex enterprise scenarios, deep customization and self-hosting. Open source (Java backend + TypeScript frontend), AGPL-3.0.
 
 ## Tools
 
