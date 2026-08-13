@@ -30,3 +30,4 @@ A curated list of [low-code development platforms](https://en.wikipedia.org/wiki
 ### Podcasts
 
 - [Connected & Ready](https://connectedandready.com/episodes/adopting-low-code-technology-with-russ-felker-trdDVE_7) - Episode 8 is centered on low-code.
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries.
