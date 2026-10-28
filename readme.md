@@ -7,6 +7,7 @@ A curated list of [low-code development platforms](https://en.wikipedia.org/wiki
 ## Platforms
 
 - [Appian](https://www.appian.com/platform/) - Integrates _business process management_(BPM) and _robotic process automation_(RPA).
+- [AppWizzy](https://appwizzy.com/) - AI-assisted web app builder with runtime templates, dedicated cloud development VMs, and Git-backed source editing.
 - [IFTTT](https://ifttt.com/home) - A web-based service that allows users to create chains of conditional statements triggered by changes that occur within other web services.
 - [Linx](https://linx.software) - A low-code backend development platform. Build and host APIs, automations and integrations.
 - [Microsoft Power Automate](https://flow.microsoft.com/en-us/) - Workflow automation with pre-built connectors.
